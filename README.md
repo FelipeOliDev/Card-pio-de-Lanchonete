@@ -1,2 +1,2 @@
-# Card-pio-de-Lanchonete
+# Cardapio-de-Lanchonete
 Primeira página feita por mim, apenas um cardápio de uma lanchonete fictícia.
